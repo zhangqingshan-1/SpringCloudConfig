@@ -1,3 +1,6 @@
+server:
+  port: 8888
+
 dynamicds:
   orgCodeHeader: orgCode                            #orgCode HTTP header name
   general:                                          #通用默认配置，目前仅支持两项，具体机构数据源可覆盖通用配置
