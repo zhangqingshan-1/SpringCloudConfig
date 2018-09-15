@@ -19,7 +19,7 @@ dynamicds:
       password: 123456
       maxPoolSize: 20                               #覆盖默认配置
       minIdle: 6                                    #覆盖默认配置
-#     jg6:
-#       url: jdbc:mysql://localhost:3306/jg6
-#       userName: root
-#       password: 123456
+    jg6:
+      url: jdbc:mysql://localhost:3306/jg6
+      userName: root
+      password: 123456
