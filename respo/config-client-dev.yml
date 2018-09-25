@@ -9,10 +9,10 @@ dynamicds:
       url: jdbc:mysql://localhost:3306/jg3
       userName: root
       password: 123456
-#     jg4:
-#       url: jdbc:mysql://localhost:3306/jg4
-#       userName: root
-#       password: 123456
+    jg4:
+      url: jdbc:mysql://localhost:3306/jg4
+      userName: root
+      password: 123456
     jg5:
       url: jdbc:mysql://localhost:3306/jg5
       userName: root
